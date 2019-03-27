@@ -1,5 +1,4 @@
-//*****Erol İlker ILGÜN 220206063
-//*****Ahmet Cihat Bozkurt 220206021
+//*****Erol İlker ILGÜN 
 
 #include "img_pro.h"
 #include "my_header.h"
